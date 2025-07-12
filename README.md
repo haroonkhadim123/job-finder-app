@@ -47,5 +47,5 @@ Implementing theme toggle (light/dark mode)
 🔍 Live Demo
 
 🌐 Click here to view the demo
-(Replace the # with your GitHub Pages or live deployment link)
+(https://nimble-cheesecake-be57e5.netlify.app/)
 
